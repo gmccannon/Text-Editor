@@ -31,7 +31,7 @@ def find_and_replace():
 root = tk.Tk()
 root.title("Text Editor")
 
-# text area
+# Text area
 text = tk.Text(root, font=("Helvetica", 22))
 text.pack(fill=tk.BOTH, expand=True)
 
