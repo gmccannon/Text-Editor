@@ -23,7 +23,7 @@ This simple text editor is built using the `tkinter` library in Python. It provi
 python your_script_name.py
 ```
 
-## Acknowledgements
+## Other information
 
 - The text editor uses a simple GUI created with `tkinter`.
 - The font and size of the text area can be customized in the code.
