@@ -6,7 +6,7 @@ root = tk.Tk()
 root.title("Text Editor")
 
 # Text area
-text = tk.Text(root, font=("Helvetica", 22))
+text = tk.Text(root, font=("Helvetica", 16))
 text.pack(fill=tk.BOTH, expand=True)
 
 # Menu bar
